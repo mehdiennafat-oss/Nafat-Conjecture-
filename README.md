@@ -3,7 +3,7 @@
 **Author:** El Mehdi Nafat — Settat, Maroc — Lycée Abderrahmane Youssfi — 1BacSM
 **Contact:** mehdi.ennafat@gmail.com
 **ORCID:** 0009-0005-2490-0438
-**DOI:** 10.5281/zenodo.17432376
+**DOI:** https://doi.org/10.5281/zenodo.23764327
 **Licence:** CC BY 4.0
 
 ### The Conjecture
